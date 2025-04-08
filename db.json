@@ -1,7 +1,6 @@
 {
-  "users": [
-    {
-      {
+   "users": [
+              {
                 "id": 1,
                 "name": "Nguyễn Văn An",
                 "email": "nguyenvanan@gmail.com",
@@ -81,7 +80,7 @@
                 "avatar": "https://example.com/avatars/kim.jpg",
                 "dateOfBirth": "1987-07-25T00:00:00.000Z"
               }
-  ],
+ ],
   "notes": [
     {
       "id": 1,
