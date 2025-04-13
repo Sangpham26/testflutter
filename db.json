@@ -119,6 +119,118 @@
       "lastLogin": "2025-04-05T10:30:42.000Z",
       "createdAt": "2023-08-10T00:00:00.000Z"
     }
-  ]
+  ],
   
+  "notes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Công việc tuần này",
+      "content": "1. Hoàn thành báo cáo dự án\n2. Gặp khách hàng ABC\n3. Kiểm tra tiến độ team",
+      "priority": 2,
+      "createdAt": "2025-03-25T09:00:00.000Z",
+      "modifiedAt": "2025-04-01T15:30:00.000Z",
+      "tags": "công việc,báo cáo,meeting",
+      "color": "#FFEB3B"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Ý tưởng dự án mới",
+      "content": "Phát triển ứng dụng quản lý tài chính cá nhân với AI",
+      "priority": 3,
+      "createdAt": "2025-04-05T14:20:00.000Z",
+      "modifiedAt": "2025-04-05T14:20:00.000Z",
+      "tags": "ý tưởng,dự án,AI",
+      "color": "#4CAF50"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "title": "Mua sắm",
+      "content": "- Sữa\n- Trứng\n- Rau xanh\n- Thịt bò",
+      "priority": 1,
+      "createdAt": "2025-04-10T08:45:00.000Z",
+      "modifiedAt": "2025-04-10T08:45:00.000Z",
+      "tags": "mua sắm,siêu thị",
+      "color": null
+    },
+    {
+      "id": 4,
+      "userId": 3,
+      "title": "Học tập",
+      "content": "Ôn tập Flutter:\n- State management\n- BLoC pattern\n- API integration",
+      "priority": 2,
+      "createdAt": "2025-03-15T19:00:00.000Z",
+      "modifiedAt": "2025-04-08T21:15:00.000Z",
+      "tags": "học tập,Flutter,lập trình",
+      "color": "#2196F3"
+    },
+    {
+      "id": 5,
+      "userId": 4,
+      "title": "Sách cần đọc",
+      "content": "1. Atomic Habits\n2. Deep Work\n3. The Psychology of Money",
+      "priority": 1,
+      "createdAt": "2025-02-28T10:10:00.000Z",
+      "modifiedAt": "2025-03-20T11:30:00.000Z",
+      "tags": "sách,đọc,phát triển bản thân",
+      "color": "#9C27B0"
+    },
+    {
+      "id": 6,
+      "userId": 5,
+      "title": "Mật khẩu quan trọng",
+      "content": "Tài khoản ngân hàng: ********\nEmail backup: ********@backup.com",
+      "priority": 3,
+      "createdAt": "2025-01-10T16:40:00.000Z",
+      "modifiedAt": "2025-04-09T09:20:00.000Z",
+      "tags": "bảo mật,mật khẩu",
+      "color": "#F44336"
+    },
+    {
+      "id": 7,
+      "userId": 6,
+      "title": "Kế hoạch du lịch",
+      "content": "Địa điểm: Đà Lạt\nThời gian: 15-20/5/2025\nKhách sạn: XYZ\nHoạt động: Tham quan, trekking",
+      "priority": 2,
+      "createdAt": "2025-03-01T13:15:00.000Z",
+      "modifiedAt": "2025-04-03T17:45:00.000Z",
+      "tags": "du lịch,kế hoạch,Đà Lạt",
+      "color": "#00BCD4"
+    },
+    {
+      "id": 8,
+      "userId": 7,
+      "title": "Công thức nấu ăn",
+      "content": "Phở bò:\n- Xương bò: 1kg\n- Thịt bò: 500g\n- Bánh phở\n- Gia vị...",
+      "priority": 1,
+      "createdAt": "2025-04-07T12:30:00.000Z",
+      "modifiedAt": "2025-04-07T12:30:00.000Z",
+      "tags": "nấu ăn,công thức,phở",
+      "color": "#FF9800"
+    },
+    {
+      "id": 9,
+      "userId": 8,
+      "title": "Fitness routine",
+      "content": "Monday: Cardio\nTuesday: Upper body\nWednesday: Yoga\nThursday: Lower body\nFriday: Rest\nSaturday: Full body\nSunday: Stretching",
+      "priority": 2,
+      "createdAt": "2025-02-15T07:00:00.000Z",
+      "modifiedAt": "2025-04-06T18:20:00.000Z",
+      "tags": "thể dục,sức khỏe,lịch tập",
+      "color": "#795548"
+    },
+    {
+      "id": 10,
+      "userId": 9,
+      "title": "Nhật ký",
+      "content": "Hôm nay gặp lại bạn cũ sau 5 năm. Rất vui khi thấy bạn ấy đã thành công với công việc kinh doanh của mình.",
+      "priority": 1,
+      "createdAt": "2025-04-09T22:10:00.000Z",
+      "modifiedAt": "2025-04-09T22:10:00.000Z",
+      "tags": "nhật ký,cá nhân",
+      "color": null
+    }
+  ]
 }
